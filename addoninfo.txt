@@ -1,0 +1,16 @@
+"AddonInfo"
+{
+     addonSteamAppID         550                                                     // 500 is the app ID for Left 4 Dead, 550 for Left 4 Dead 2
+     addontitle              "Giant Tank"                                           // Add-on title that shows up in Add-ons list. ~20 chars max
+     addonversion	     1.0                                                     // Add-on version.
+     addontagline            "That's a huge tank"	     // Add-on tagline or wrap-up- a short description. ~100 chars max
+     addonauthor             "Stay Puft"                                                 // Name/alias of the author
+     addonSteamGroupName     ""                                       // (Optional) Steam group related to the add-on. We use this to construct a URL to the group page.
+     addonauthorSteamID      ""                                         // (Optional) Steam ID of author. We use this to construct a URL to the author's page.
+
+ 
+     // short description that appears in the Add-on list screen...
+     addonDescription        "This is a tank on roids"
+ 
+     // Authors can add localized descriptions here. (Not yet supported)
+     addonDescription_FR     ""	}
